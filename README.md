@@ -1,6 +1,6 @@
 # Projeto-Smart-Parking
 
-Bem-vindo à API REST Smart Parking! Esta API é responsável por gerenciar os recursos relacionados a um estacionamento, como clientes, pagamentos, registros, etc.
+Bem-vindo à API REST Smart Parking!! Esta API é responsável por gerenciar os recursos relacionados a um estacionamento, como clientes, pagamentos, registros, etc.
 
 ## Tecnologias Utilizadas
 
